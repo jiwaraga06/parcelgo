@@ -20,3 +20,16 @@ Kelompok Pemograman Mobile 2 :
 Raga Puteraku Dermawan - 22552011153 
 Muamar - 22552011119 
 Chaerul try Julianto - 21552011055
+
+
+SCREENSHOOT
+
+![alt text](https://github.com/jiwaraga06/parcelgo/blob/master/ScreenShoot/login.png?raw=true)
+
+![alt text](https://github.com/jiwaraga06/parcelgo/blob/master/ScreenShoot/menu.png?raw=true)
+
+![alt text](https://github.com/jiwaraga06/parcelgo/blob/master/ScreenShoot/input.png?raw=true)
+
+![alt text](https://github.com/jiwaraga06/parcelgo/blob/master/ScreenShoot/list_delivery.png?raw=true)
+
+![alt text](https://github.com/jiwaraga06/parcelgo/blob/master/ScreenShoot/status.png?raw=true)
